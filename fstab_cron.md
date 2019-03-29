@@ -1,5 +1,5 @@
 ## FSTAB
-
+![FSTAB](fstab.PNG)
 
 
 
